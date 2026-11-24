@@ -1,7 +1,7 @@
 [project]
 name = "voice-agent"
 version = "0.1.0"
-description = "Phone voice agent: Twilio + Pipecat (Deepgram STT, Groq LLM, Cartesia TTS)"
+description = "Phone voice agent: Plivo + Pipecat (Deepgram STT, Groq LLM, Cartesia TTS) with a mock clinic"
 requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.165.0",
